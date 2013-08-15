@@ -3,7 +3,7 @@ finagle-debug
 
 use `curl -v  http://localhost:8080` to test the service
 
-Issue: **There's a IndividualRequestTimeoutException once every 8 requests**
+Issue: **There will be an IndividualRequestTimeoutException once every 8 requests**
 
 ```
 SEVERE: A server service proxy-client threw an exception
